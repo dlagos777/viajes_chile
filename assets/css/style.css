@@ -1,0 +1,37 @@
+/* Ajustes General */
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+}
+
+/* Estilos para el body */
+body{
+    font-family: 'Open Sans';
+    background-color: black;
+}
+
+/* Tamaño Logo Navbar */
+.logo-viajes{
+    width: 25px;
+}
+
+/* Estilos Parrafos Info */
+.parrafos{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+/* Estilos texto cards */
+#destacados .card-text{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+/* Estilo texto sección suscripcion */
+#suscripcion p{
+    font-weight: 400;
+    font-size: 20px;
+}
